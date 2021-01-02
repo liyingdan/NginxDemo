@@ -13,7 +13,8 @@ import java.util.Date;
 
 /**
  * @author Janet
- * @date 2020/5/12
+ * @date 2020/5/12            网关   http://localhost:9527/payment/lb?userName=l
+ * 连接 nginx 之后：http://192.168.10.13:9011/payment/lb?userName=l
  */
 @Component
 @Slf4j
